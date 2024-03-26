@@ -1,0 +1,17 @@
+Column;Description
+Team;Team name
+TG;Total games played (at home & away)
+GH;Games played at home
+GA;Games played away
+YF;Average yellow cards (all games)
+YFH;Average yellow cards (played at home)
+YFA;Average yellow cards (played away)
+YA;Average yellow cards opponent team (all games)
+YAH;Average yellow cards opponent team (played at home)
+YAA;Average yellow cards opponent team (played away)
+O3.5/4.5/5.5;Percentage of games over the line of yellow cards (all games)
+U3.5/4.5/5.5;Percentage of games under the line of yellow cards (all games)
+O3.5/4.5/5.5H;Percentage of games over the line of yellow cards (played at home)
+U3.5/4.5/5.5H;Percentage of games under the line of yellow cards (played at home)
+O3.5/4.5/5.5A;Percentage of games over the line of yellow cards (played away)
+U3.5/4.5/5.5A;Percentage of games under the line of yellow cards (played away)
